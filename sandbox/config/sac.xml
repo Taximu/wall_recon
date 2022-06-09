@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<SAC>
+    <!-- Parameters for sac program -->
+    <InputPathForScans name="/home/mgorbunov/scans/" />
+    <!-- PLEASE PROVIDE PATH FOR SCANS /path/ -->
+    <ModelType value="plane" />
+    <MethodType value="ransac" />
+    <MaxIterations value="1000" />
+    <DistanceThreshold value="5.0" />
+    <NumberOfPlanesToExtract value="8" />
+    <PlaneColor red="0" green="255" blue="255" />
+    <OutputPathForFloor name="/home/mgorbunov/scans/scan_007/sac/floor/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <OutputPathForRoof name="/home/mgorbunov/scans/scan_007/sac/roof/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <OutputPathForWalls name="/home/mgorbunov/scans/scan_007/sac/wall_planes/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+</SAC>

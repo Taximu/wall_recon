@@ -1,0 +1,10 @@
+/sandbox/bin
+/sandbox/build
+/sandbox/include
+/sandbox/mainpage.dox
+
+.rosinstall
+.rosinstall.bak
+setup.bash
+setup.sh
+setup.zsh

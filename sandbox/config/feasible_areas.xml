@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<feasible_areas>
+  <!-- Parameters for feasible_areas program -->
+  <InputFile>
+    <FirstFile            name="/home/mgorbunov/007.00/plane_0.pcd" />
+    <SecondFile           name="/home/mgorbunov/007.00/borders.pcd" />
+  </InputFile>
+  <ColorCentroids         value="true" />
+  <ColorAllPointsInCircle value="false" />
+  <BorderColor            red="255" green="0" blue="0" />
+  <FeasibleAreaColor      red="240" green="128" blue="128" />
+  <ManipulatorRadius      value="0.0" />
+  <MiddleSuctionRadius    value="50.0" />
+  <OutputFile   		  name="/home/mgorbunov/007.00/Feasible_areas335.pcd" />
+</feasible_areas>

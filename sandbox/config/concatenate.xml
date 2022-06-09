@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<concatenate>
+    <!-- Parameters for concatenate program -->
+    <InputFile name="/home/mgorbunov/scans/scan_007/identified_walls/real_walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <OutputFile name="/home/mgorbunov/scans/scan_007/processed_walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+</concatenate>

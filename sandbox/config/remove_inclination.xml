@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<remove_inclination>
+    <!-- Parameters for remove_inclination program -->
+    <InputPath name="/home/mgorbunov/sac/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <InputFloorFile name="/home/mgorbunov/sac/floor/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <PathForYamlAligned name="/home/mgorbunov/yaml_aligned/" />
+    <DistanceThreshold value="5.0" />
+    <OutputPath name="/home/mgorbunov/aligned/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+</remove_inclination>

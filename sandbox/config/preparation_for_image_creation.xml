@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<preparation_for_image_creation>
+    <!-- Parameters for preparation_for_image_creation program -->
+    <InputPathWalls name="/home/mgorbunov/processed_walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <InputFloorFile name="/home/mgorbunov/scans/scan_009/aligned/floor/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <DistanceThreshold value="5.0" />
+    <OutputPathWalls name="/home/mgorbunov/scans/processed_walls/transformed/walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <OutputPathInfoFile name="/home/mgorbunov/scans/processed_walls/transformed/wall_images/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+</preparation_for_image_creation>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<voxel_grid>
+  <!-- Parameters for voxel_grid program -->
+  <InputFile         name="/home/mgorbunov/Redundancy/Result_images/WALL4.pcd" />
+  <LeafSize          value="200.0" />
+  <BorderColor       red="255" green="0" blue="0" />
+  <OutputFile        name="/home/mgorbunov/result4.pcd" />
+</voxel_grid>
