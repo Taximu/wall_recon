@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<create_image>
+    <!-- Parameters for create_image program -->
+    <!-- InputFile IDENTIFIED DURING EXECUTION -->
+    <InputFile name="/home/mgorbunov/processed_walls/transformed/walls/" />
+    <BorderColor red="255" green="0" blue="0" />
+    <FeasibleAreaColor red="240" green="128" blue="128" />
+    <EmptyAreaColor red="133" green="133" blue="133" />
+    <WallColor red="0" green="255" blue="255" />
+    <!-- PixelSize Don't use value lower than distanceThreshold -->
+    <PixelSize value="20.0" />
+    <!--OutputPathForImage IDENTIFIED DURING EXECUTION -->
+    <OutputPathForImage name="/home/mgorbunov/processed_walls/transformed/wall_images/" />
+    <!--OutputPathForInfoFile IDENTIFIED DURING EXECUTION -->
+    <OutputPathForInfoFile name="/home/mgorbunov/processed_walls/transformed/wall_images/" />
+</create_image>

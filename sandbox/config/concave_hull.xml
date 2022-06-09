@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<concave_hull>
+  <!-- Parameters for concave_hull program -->
+  <InputFile   name="/home/mgorbunov/Redundancy/Result_images/transformed4.pcd" />
+  <Alpha       value="10.0" /> <!-- 5 -->
+  <BorderColor red="255" green="0" blue="0" />
+  <OutputFile  name="/home/mgorbunov/borders_4.pcd" />
+</concave_hull>

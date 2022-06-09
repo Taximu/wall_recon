@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<orthogonal_projection>
+    <!-- Parameters for orthogonal_projection program -->
+    <InputPathToScans name="/home/mgorbunov/scans/" />
+    <PathToYamlAligned name="/home/mgorbunov/yaml_aligned/" />
+    <PathToYamlImage name="/home/mgorbunov/processed_walls/transformed/wall_images/" />
+    <PathToWalls name="/home/mgorbunov/processed_walls/transformed/walls/" />
+    <MinDistanceToPlane value="5.0" />
+    <MaxDistanceToPlane value="600.0" />
+    <OutputPath name="/home/mgorbunov/processed_walls/transformed/walls/" />
+</orthogonal_projection>

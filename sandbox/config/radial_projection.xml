@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<radial_projection>
+  <!-- Parameters for radial_projection program -->
+  <InputFile          name="/home/mgorbunov/007.00/transformed.pcd" />
+  <DistanceThreshold  value="12.0" />
+  <OutputFile         name="/home/mgorbunov/007.00/radial_projected.pcd" />
+</radial_projection>

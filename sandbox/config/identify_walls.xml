@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<identify_walls>
+    <!-- Parameters for identify_walls program -->
+    <InputPathToWalls name="/home/mgorbunov/scans/scan_007/aligned/wall_planes/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <MaxIterations value="1000" />
+    <DistanceThreshold value="5.0" />
+    <AllowedAngleBetweenPlanes value="0.6" />
+    <OutputPathForSeparateWalls name="/home/mgorbunov/scans/scan_007/identified_walls/possible_walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+    <OutputPathForFourWalls name="/home/mgorbunov/scans/scan_007/identified_walls/real_walls/" />
+    <!-- IDENTIFIED DURING EXECUTION -->
+</identify_walls>

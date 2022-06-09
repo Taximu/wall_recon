@@ -1,0 +1,13 @@
+<package>
+  <description brief="wallsreconstruction">
+     WallsReconstruction
+  </description>
+  <author>Maxim Gorbunov</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>https://wiki.ros.org/</url>
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+</package>
